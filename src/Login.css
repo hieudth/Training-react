@@ -1,0 +1,21 @@
+body {
+    height: 100%;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(140deg, #f3d9d3 0%, #7083f1 50%, #e0f17b 75%);
+}
+
+.form-login {
+    margin-top: 100px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    background-color: mintcream;
+}
+.custom-input-password {
+    position: relative;
+}
+
+i.far {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
